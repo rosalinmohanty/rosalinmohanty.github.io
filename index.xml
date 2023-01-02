@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosalin Mohanty</title>
+    <link>https://rosalinmohanty.github.io/</link>
+      <atom:link href="https://rosalinmohanty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rosalin Mohanty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rosalinmohanty.github.io/media/icon_hu2358b2cda5d2856d7ec2ddac611e8492_294700_512x512_fill_lanczos_center_3.png</url>
+      <title>Rosalin Mohanty</title>
+      <link>https://rosalinmohanty.github.io/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://rosalinmohanty.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rosalinmohanty.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://rosalinmohanty.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rosalinmohanty.github.io/gallery/</guid>
+      <description>&lt;p&gt;This page shows a sample of my clicks.&lt;/p&gt;
+&lt;h2 id=&#34;gallery-1&#34;&gt;Gallery 1&lt;/h2&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=https://rosalinmohanty.github.io/css/hugo-easy-gallery.css /&gt;
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://rosalinmohanty.github.io//images/gallery_1/flower.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://rosalinmohanty.github.io//images/gallery_1/flower.jpg&#34; alt=&#34;Flower&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Flower&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://rosalinmohanty.github.io//images/gallery_1/flower.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://rosalinmohanty.github.io//images/gallery_1/fruits.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://rosalinmohanty.github.io//images/gallery_1/fruits.jpg&#34; alt=&#34;Fruits&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Fruits&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://rosalinmohanty.github.io//images/gallery_1/fruits.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://rosalinmohanty.github.io//images/gallery_1/sprite_landscape.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://rosalinmohanty.github.io//images/gallery_1/sprite_landscape.jpg&#34; alt=&#34;Sprite landscape&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Sprite landscape&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://rosalinmohanty.github.io//images/gallery_1/sprite_landscape.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://rosalinmohanty.github.io//images/gallery_1/tea_cup.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://rosalinmohanty.github.io//images/gallery_1/tea_cup.jpg&#34; alt=&#34;Tea cup&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Tea cup&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://rosalinmohanty.github.io//images/gallery_1/tea_cup.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;gallery-2&#34;&gt;Gallery 2&lt;/h2&gt;
+&lt;p&gt;
+
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://rosalinmohanty.github.io//images/gallery_2/book_landscape.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://rosalinmohanty.github.io//images/gallery_2/book_landscape.jpg&#34; alt=&#34;Book landscape&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Book landscape&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://rosalinmohanty.github.io//images/gallery_2/book_landscape.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://rosalinmohanty.github.io//images/gallery_2/halo_light.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://rosalinmohanty.github.io//images/gallery_2/halo_light.jpg&#34; alt=&#34;Halo light&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Halo light&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://rosalinmohanty.github.io//images/gallery_2/halo_light.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://rosalinmohanty.github.io//images/gallery_2/key_ring.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://rosalinmohanty.github.io//images/gallery_2/key_ring.jpg&#34; alt=&#34;Key ring&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Key ring&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://rosalinmohanty.github.io//images/gallery_2/key_ring.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+ &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+ 
+ 
+ 
+ &lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+ 
+ &lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+ 
+ &lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+     
+     &lt;div class=&#34;pswp__container&#34;&gt;
+       &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+       &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+       &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+     &lt;/div&gt;
+     
+     &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+     &lt;div class=&#34;pswp__top-bar&#34;&gt;
+       
+       &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+       &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+       &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+       &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+       &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+       
+       
+       &lt;div class=&#34;pswp__preloader&#34;&gt;
+         &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+           &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+             &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+           &lt;/div&gt;
+         &lt;/div&gt;
+       &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+       &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+     &lt;/div&gt;
+     &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+     &lt;/button&gt;
+     &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+     &lt;/button&gt;
+     &lt;div class=&#34;pswp__caption&#34;&gt;
+       &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+     &lt;/div&gt;
+     &lt;/div&gt;
+     &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
